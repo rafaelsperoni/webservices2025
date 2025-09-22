@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Exemplo de documento XML-->
+<email status="important">
+    <header>
+        <from>rafael.speroni@ifc.edu.br</from>
+        <to>rafael.speroni@ifc.edu.br</to>
+        <subject>Web Services</subject>
+    </header>
+    <body>
+        Olá, hoje estamos falando de XML!
+    </body>
+</email>
+
+
